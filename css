@@ -1,19 +1,8 @@
-body {
-	color: #cecece;
-}
-
-a {
-	color: #0084ff;
-}
 ._8slc {
     font-weight: 700;
     color: rgb(155, 155, 155);
     font-size: 14px;
     line-height: 32px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-	color: #cecece;
 }
 
 ._4sp8 {
@@ -285,9 +274,7 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: #cecece;
 }
 
-.clearfix {
-	background-color: #151515;
-}
+
 
 ._13iv ._1k1p:hover div {
 	background-color: #2e2e2e !important;
